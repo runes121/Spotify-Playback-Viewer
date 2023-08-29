@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Set your Spotify API credentials
-SPOTIPY_CLIENT_ID = 'afd65e97488f4e028f3b91e8eafe2766'
-SPOTIPY_CLIENT_SECRET = '370721745d0b43a8ab7e098c05f79cd0'
+SPOTIPY_CLIENT_ID = 'SPOTIPY_CLIENT_ID'
+SPOTIPY_CLIENT_SECRET = 'SPOTIPY_CLIENT_SECRET'
 SPOTIPY_REDIRECT_URI = 'https://spotifyprjctbackend.runes121.repl.co'
 
 sp = None
